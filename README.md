@@ -16,16 +16,16 @@ Invertion of the original output because it didn't work.
 
 #### solver.c file
 
-'''
+```
 make build
 make
-'''
+```
 
 #### twist.c file
 
-'''
+```
 gcc -o ./bin/twist twist.c
-'''
+```
 
 ### Use the program
 
