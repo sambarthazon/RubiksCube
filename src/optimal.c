@@ -3633,7 +3633,7 @@ void oppositeOutput(char **strings, int f_length)
 
 void writeToFile(char **strings, int f_length)
 {
-   FILE *file = fopen("solutions.txt", "w");
+   FILE *file = fopen("solution.txt", "w");
    if (file == NULL)
    {
       printf("Error opening file!\n");

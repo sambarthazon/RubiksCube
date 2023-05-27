@@ -51,7 +51,7 @@ $(OBJDIR)/%.$(OBJEXT): $(SRCDIR)/%.$(SRCEXT)
 #####################
 build:
 	mkdir -p $(OBJDIR)
-	touch solutions.txt
+	touch solution.txt
 
 #####################
 # Clear directories #
